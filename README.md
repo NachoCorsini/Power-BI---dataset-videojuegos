@@ -21,6 +21,12 @@ Este proyecto consiste en una visualización interactiva desarrollada en **Power
 
 ---
 
+## 📦 Descargar archivo `.pbix`
+
+Podés descargar el archivo original de Power BI desde este repositorio:
+
+📁 [`DashboardVideojuegos.zip`]()
+
 
 
 ## 📦 Dataset utilizado
