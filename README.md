@@ -25,7 +25,7 @@ Este proyecto consiste en una visualización interactiva desarrollada en **Power
 
 Podés descargar el archivo original de Power BI desde este repositorio:
 
-📁 [`DashboardVideojuegos.zip`]()
+[🔽 Proyecto Final - Corsini Ignacio.rar](./Proyecto%20Final%20-%20Corsini%20Ignacio.rar) 
 
 
 
